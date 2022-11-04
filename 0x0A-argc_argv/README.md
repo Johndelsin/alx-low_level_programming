@@ -1,1 +1,1 @@
-# this is all ablut argc and argv
+This is all about argc and argv
