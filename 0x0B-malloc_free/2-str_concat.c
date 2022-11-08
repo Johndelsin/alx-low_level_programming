@@ -1,21 +1,22 @@
 #include "main.h"
 /**
- * strlen - count array
- * @s: array of elements
- * Return: 1
+ * _strlen - counts and returns string length
+ * @s: that is the string
+ *
+ * Return: the length
  */
-
 int _strlen(char *s)
 {
-	unsigned int i;
+	int counter = 0;
 
-	i = 0;
-	while (s[i] != '\0') /*Count character of string*/
-	{
-		i++;
-	}
-
-	return (i);
+	if (!*s)
+		return ("0")
+			while (*s)
+			{
+				counter++;
+				s++;
+			}
+	return (counter);
 }
 
 /**
