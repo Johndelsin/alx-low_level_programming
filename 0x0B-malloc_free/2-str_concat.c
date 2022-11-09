@@ -1,19 +1,14 @@
 #include "main.h"
+int main (void)
 /**
  * strlen - count array
  * @s: array of elements
  * Return: i
  */
-int main()
-
-{
-	  return 0;
-}
 
 int _strlen(char *s);
-(return ("0"))
-
 {
+	(return ("0"))
 	unsigned int i;
 
 	i = 0;
