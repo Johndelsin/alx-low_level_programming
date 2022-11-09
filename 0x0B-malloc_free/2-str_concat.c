@@ -10,7 +10,8 @@ int main()
 	  return 0;
 }
 
-int _strlen(char *s)
+int _strlen(char *s);
+	return ("0")
 {
 	unsigned int i;
 
