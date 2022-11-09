@@ -11,7 +11,9 @@ int main()
 }
 
 int _strlen(char *s);
+{
 	return ("0")
+}
 {
 	unsigned int i;
 
